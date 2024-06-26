@@ -6,12 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f8e660b9-e1b1-4648-9b77-d8dbb4985f2a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cda/clientmanager/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cda/clientmanager/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/cda/clientmanager/view/addClientForm.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/cda/clientmanager/view/addClientForm.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/cda/clientmanager/view/deleteClient.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/cda/clientmanager/view/deleteClient.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/cda/clientmanager/view/mainLayout.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/cda/clientmanager/view/mainLayout.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/cda/clientmanager/view/searchClient.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/cda/clientmanager/view/searchClient.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/cda/clientmanager/view/updateClient.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/cda/clientmanager/view/updateClient.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

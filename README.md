@@ -20,13 +20,8 @@ Install :
   cd path/to/project/where/pom.xml/is
   ```
   
-- Clean and compile project :
+- Clean, compile and run :
   ```
-  mvn clean compile
-  ```
-  
-- Run the app :
-  ```
-  mvn javafx:run
+  mvn clean javafx:run
   ```
 
