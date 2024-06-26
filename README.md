@@ -6,6 +6,7 @@ This project is for school test purpose.
 
 Install :
 - Git
+- JDK21
 - Maven
 
 ## Launch the App
